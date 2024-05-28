@@ -1,9 +1,9 @@
 # CoBAR_grp7
 project for CoBAR
 
-The main file running in the enviorment flygym-v1 is Project.py.
+The main file running in the enviorment flygym-v1 is Project.ipynb.
 
-It has been executed.
+It has been executed and the results are already in it.
 
 the ignore file can be discarded, but contains work that has been done.
 
