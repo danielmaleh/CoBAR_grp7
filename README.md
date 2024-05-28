@@ -5,6 +5,8 @@ The main file running in the enviorment flygym-v1 is Project.ipynb.
 
 It has been executed and the results are already in it.
 
+The output directory contains the videos from the project.
+
 the ignore file can be discarded, but contains work that has been done.
 
 NOTE:
